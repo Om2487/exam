@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "amount": 100,
+        "description": "Test transaction 1"
+    },
+    {
+        "id": 2,
+        "amount": 250,
+        "description": "Updated transaction"
+    },
+    {
+        "id": 3,
+        "amount": 300,
+        "description": "Test transaction 3"
+    }
+]
